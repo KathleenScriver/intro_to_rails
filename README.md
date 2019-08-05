@@ -5,9 +5,9 @@ Intended for developers brand new to Rails.
 
 ## Objectives
 1. Explain what Rails is.
-1. Describe MVC.
+1. Illustrate MVC architecture.
 1. Identify the steps to starting a new Rails project.
-1. Summarize steps to build cats index page.
+1. Summarize steps to build cats index page. Follow MVC pattern.
 
     - Dream drive, what's the ultimate goal? (Vertical slice)
     - Start server, go to localhost:3000/cats (Follow the errors.)
@@ -17,7 +17,7 @@ Intended for developers brand new to Rails.
     - Create view
 
 ## Deliverables
-1. Slack to me: In your own words, describe the flow a request takes through Rails MVC.
+1. Slack to me: In your own words, describe the flow a network request takes through Rails MVC. 
 
 
 ## Creating a new Rails Project
