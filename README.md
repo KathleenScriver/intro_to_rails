@@ -7,13 +7,14 @@ Intended for developers brand new to Rails.
 1. Explain what Rails is.
 1. Describe MVC.
 1. Identify the steps to starting a new Rails project.
-1. Summarize steps to build cats index page. Follow the errors.
-  - Dream drive, what's the ultimate goal? (Vertical slice)
-  - Start server, go to localhost:3000/cats
-  - Open/Draw route
-  - Create controller to route request
-  - Create model & migration
-  - Create view
+1. Summarize steps to build cats index page.
+
+    - Dream drive, what's the ultimate goal? (Vertical slice)
+    - Start server, go to localhost:3000/cats (Follow the errors.)
+    - Open/Draw route
+    - Create controller to route request
+    - Create model & migration
+    - Create view
 
 ## Deliverables
 1. Slack to me: In your own words, describe the flow a request takes through Rails MVC.
@@ -29,3 +30,4 @@ Intended for developers brand new to Rails.
 
 ### Step Two: Follow the Errors
 * We're "dream-driving" the development of this app so we'll start with what we want the users to see. When a user visits `localhost:3000/cats` they should see a list of all the cats, the cat's name, and the cat's breed.
+* Currently when we visit `localhost:3000/cats`, we get errors. Follow these errors to build your feature.
