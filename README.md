@@ -23,7 +23,7 @@ Intended for developers brand new to Rails.
 ## Creating a new Rails Project
 
 ### Step One: Create your Rails app
-* In your terminal, type `rails new meow-app -T -d=postgresql --skip-turbolinks --skip-spring`
+* In your terminal, type `rails new meow_app -T -d=postgresql --skip-turbolinks --skip-spring`
 * Setup the database `rails db:create`
 * Add any desired gems (PRY!!!), then run `bundle`
 
